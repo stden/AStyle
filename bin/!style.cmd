@@ -1,0 +1,1 @@
+AStyle --options=astyle.cfg --recursive *.c *.cpp *.h 
