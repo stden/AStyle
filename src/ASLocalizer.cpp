@@ -147,7 +147,7 @@ static WinLangCode wlc[] =
 	{ LANG_KOREAN,     "ko" },
 	{ LANG_POLISH,     "pl" },
 	{ LANG_PORTUGUESE, "pt" },
-	{ LANG_RUSSIAN,    "ru" },
+	//{ LANG_RUSSIAN,    "ru" },
 	{ LANG_SPANISH,    "es" },
 	{ LANG_SWEDISH,    "sv" },
 	{ LANG_UKRAINIAN,  "uk" },
